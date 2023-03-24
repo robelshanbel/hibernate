@@ -31,6 +31,7 @@ public class Employee {
 	
 	private companyProfile companyProfile;
 
+	
 	public int getEmpid() {
 		return empid;
 	}
